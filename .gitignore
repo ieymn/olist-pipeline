@@ -1,0 +1,8 @@
+logs/
+.env
+ingestion/data/
+*.parquet
+__pycache__/
+.venv/
+dbt/target/
+dbt/dbt_packages/
