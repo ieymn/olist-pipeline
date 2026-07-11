@@ -6,3 +6,4 @@ __pycache__/
 .venv/
 dbt/target/
 dbt/dbt_packages/
+dbt/.user.yml
